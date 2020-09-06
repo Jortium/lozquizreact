@@ -1,0 +1,11 @@
+.border {
+	margin: 10px 5px 10px 5px;
+	border: medium;
+	border-style: solid;
+	border-color: black;
+	background-color: #D9D3B4;
+}
+
+.heartcontainer {
+	min-height: 35px;
+}

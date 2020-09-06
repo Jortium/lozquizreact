@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto&display=swap');
+
+.border {
+	margin: 10px 5px 10px 5px;
+	border: medium;
+	border-style: solid;
+	border-color: black;
+	background-color: #D9D3B4;
+}
+
+.potCounter{
+	font-family: 'Press Start 2P', cursive;
+	font-size: 10px;	
+	margin: 7px 10px 5px 10px;
+}
